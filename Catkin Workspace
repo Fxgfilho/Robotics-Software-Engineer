@@ -1,0 +1,7 @@
+mkdir -p /home/workspace/catkin_ws/src
+cd /home/workspace/catkin_ws/src
+catkin_init_workspace
+ls -l
+cd /home/workspace/catkin_ws
+catkin_make
+ls
